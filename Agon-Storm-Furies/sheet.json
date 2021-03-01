@@ -1,0 +1,9 @@
+{
+  "html": "agon-storm-furies.html",
+  "css": "agon-storm-furies.css",
+  "authors": "Ghorghor Bey, Jakob Oesinghaus, Tim Denee",
+  "roll20userid": "3125747, 726129, 782723",
+  "preview": "agon-storm-furies.png",
+  "instructions": "This is the offical sheet for Storm Furies playset for Agon by John Harper and Sean Nittner. Please report issues or feature requests [here](https://github.com/joesinghaus/Agon-Storm-Furies/issues).",
+  "legacy": true
+}
